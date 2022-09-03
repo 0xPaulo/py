@@ -21,5 +21,4 @@ time.sleep(1)
 login.click()
 time.sleep(5)
 driver.get('https://www.tumblr.com/new/photo?context=queue&name=inugamidoo')
-up = driver.find_element(By.CLASS_NAME, "TRX6J MD5Ec C_g5d")
-up.click()
+
